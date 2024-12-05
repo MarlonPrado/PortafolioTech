@@ -1,0 +1,20 @@
+#titulo1 {
+  /* Titulo en Azul */
+  color: aqua;
+  text-align: center;
+  font-size: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  border: 2px solid black;
+}
+#seccion2 {
+  background-color: blueviolet;
+  border: 1px solid black;
+}
+p {
+  text-align: center;
+  margin: auto;
+  padding-left: 40%;
+  display: flex;
+  justify-content: center;
+}
